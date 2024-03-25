@@ -1,4 +1,4 @@
-# Duoling Clone
+# Duolingo Clone
 
 This is a duolingo Clone. This version is called Lingo. It teaches French, Spanish, Italian, Japanese & Croatian
 
