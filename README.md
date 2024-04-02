@@ -15,4 +15,5 @@ This is a duolingo Clone. This version is called Lingo. It teaches French, Spani
 
 - git clone
 - cd duolingo-clone
+- npm install
 - npm run dev
